@@ -4,3 +4,5 @@ function greet(name) {
 }
 
 console.log(greet('World'));
+
+console.log('This is a simple Node.js application.');
